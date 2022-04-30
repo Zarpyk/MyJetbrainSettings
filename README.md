@@ -18,10 +18,8 @@ File->Settings->Editor->Code Style->Scheme->3 dots->Import Scheme(->InteliJ IDEA
 
 You can use IntelliJ Code Style for any Jetbrains IDE, but it probably won't work properly.
 
-## LayerSettings.DotSettings (CodeStyle)
+## LayerSettings.DotSettings (CodeStyle for Rider and ReSharper)
 File->Settings->Manage Layer->This Computer->Import from
-
-This only works for Rider and ReSharper.
 
 ### UnityFileLayout.xml
 File->Settings->Editor->Code Style->C#->File Layout->Unity
