@@ -1,0 +1,24 @@
+<mtTheme>
+  <themeId>GuerreroTheme</themeId>
+  <name>GuerreroTheme</name>
+  <editorColorsScheme></editorColorsScheme>
+  <dark>true</dark>
+  <colors>
+    <color id="background" value="2d2a2eff"/>
+    <color id="foreground" value="fcfcfaff"/>
+    <color id="text" value="939293ff"/>
+    <color id="highlight" value="5a565bff"/>
+    <color id="selectionBackground" value="6e6c6fff"/>
+    <color id="selectionForeground" value="ffd866ff"/>
+    <color id="button" value="403e41ff"/>
+    <color id="secondaryBackground" value="403e41ff"/>
+    <color id="disabled" value="5b595cff"/>
+    <color id="contrast" value="252326ff"/>
+    <color id="tableSelected" value="4a474bff"/>
+    <color id="secondBorder" value="403e41ff"/>
+    <color id="treeSelection" value="2d2a2e3f"/>
+    <color id="notifications" value="363437ff"/>
+    <color id="accent" value="ffd866ff"/>
+    <color id="excluded" value="363338ff"/>
+  </colors>
+</mtTheme>
