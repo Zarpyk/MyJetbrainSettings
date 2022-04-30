@@ -16,6 +16,8 @@ Rider:
 ## CodeStyle.xml
 File->Settings->Editor->Code Style->Scheme->3 dots->Import Scheme(->InteliJ IDEA Code Style XML)
 
+You can use IntelliJ or Rider Code Style for any Jetbrains IDE, but it probably won't work properly
+
 ## ColorScheme.icls
 File->Settings->Editor->Color Scheme->Scheme->3 dots->Import Scheme(->InteliJ IDEA color scheme (.icls))
 
