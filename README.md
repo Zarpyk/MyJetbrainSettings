@@ -1,5 +1,5 @@
 # My Jetbrains Settings
-I use [Material Theme](https://plugins.jetbrains.com/plugin/8006-material-theme-ui) and [Atom Material Icons](https://plugins.jetbrains.com/plugin/10044-atom-material-icons) (Only with "Enable UI Icon") and the theme is a modification of Monokai Pro
+I use [Material Theme](https://plugins.jetbrains.com/plugin/8006-material-theme-ui) and [Atom Material Icons](https://plugins.jetbrains.com/plugin/10044-atom-material-icons) and the theme is a modification of Monokai Pro
 
 Other plugins:
 All IDEs:
@@ -16,17 +16,27 @@ Rider:
 ## CodeStyle.xml
 File->Settings->Editor->Code Style->Scheme->3 dots->Import Scheme(->InteliJ IDEA Code Style XML)
 
-You can use IntelliJ or Rider Code Style for any Jetbrains IDE, but it probably won't work properly
+You can use IntelliJ Code Style for any Jetbrains IDE, but it probably won't work properly.
+
+## LayerSettings.DotSettings (CodeStyle)
+File->Settings->Manage Layer->This Computer->Import from
+
+This only works for Rider and ReSharper.
+
+### UnityFileLayout.xml
+File->Settings->Editor->Code Style->C#->File Layout->Unity
+
+You need copy the file to the field. This is probably included on LayerSettings.DotSettings.
 
 ## ColorScheme.icls
 File->Settings->Editor->Color Scheme->Scheme->3 dots->Import Scheme(->InteliJ IDEA color scheme (.icls))
 
-You can use IntelliJ or Rider Color Scheme for any Jetbrains IDE, but it probably won't work properly
+You can use IntelliJ or Rider Color Scheme for any Jetbrains IDE, but it probably won't work properly.
 
 ## Keymap.zip
 File->Manage IDE Settings->Import Settings
 
-I haven't tested it, but it will probably work in any Jetbrains IDE
+I haven't tested it, but it will probably work in any Jetbrains IDE.
 
 ## Theme.xml
 This requiere [Material Theme](https://plugins.jetbrains.com/plugin/8006-material-theme-ui)
