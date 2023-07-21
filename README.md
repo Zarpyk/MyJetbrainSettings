@@ -4,6 +4,8 @@ I use [Material Theme](https://plugins.jetbrains.com/plugin/8006-material-theme-
 Other plugins:
 
 - All IDEs:
+  - [Material Theme](https://plugins.jetbrains.com/plugin/8006-material-theme-ui) 
+  - [Atom Material Icons](https://plugins.jetbrains.com/plugin/10044-atom-material-icons)
   - [Code Screenshots](https://plugins.jetbrains.com/plugin/9406-code-screenshots)
   - [Save Actions](https://plugins.jetbrains.com/plugin/7642-save-actions) (No Rider, it already have good save action)
 
