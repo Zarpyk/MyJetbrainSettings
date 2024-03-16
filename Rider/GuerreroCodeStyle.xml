@@ -1,9 +1,0 @@
-<code_scheme name="GuerreroCodeStyle" version="173">
-  <option name="SOFT_MARGINS" value="120" />
-  <editorconfig>
-    <option name="ENABLED" value="false" />
-  </editorconfig>
-  <codeStyleSettings language="SQL">
-    <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
-  </codeStyleSettings>
-</code_scheme>

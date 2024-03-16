@@ -1,21 +1,22 @@
-<scheme name="GuerreroColorScheme" version="142" parent_scheme="Darcula">
+<scheme name="ZarpykColorScheme" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2022-12-26T12:20:04</property>
+    <property name="created">2024-03-16T01:03:24</property>
     <property name="ide">Rider</property>
-    <property name="ideVersion">2022.3.1.0.0</property>
-    <property name="modified">2022-12-26T12:20:24</property>
-    <property name="originalScheme">GuerreroColorScheme</property>
+    <property name="ideVersion">2023.3.3.0.0</property>
+    <property name="modified">2024-03-16T01:03:39</property>
+    <property name="originalScheme">ZarpykColorScheme</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
   <font>
     <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_SIZE" value="13" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_SIZE" value="13" />
   </font>
+  <option name="EDITOR_LIGATURES" value="true" />
   <console-font>
     <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
     <option name="EDITOR_FONT_SIZE" value="12" />
@@ -37,25 +38,28 @@
     <option name="DOCUMENTATION_COLOR" value="403e41" />
     <option name="DOC_COMMENT_GUIDE" value="5b595c" />
     <option name="DOC_COMMENT_LINK" value="78dce8" />
-    <option name="FILESTATUS_ADDED" value="a9dc76" />
+    <option name="FILESTATUS_ADDED" value="c3e887" />
     <option name="FILESTATUS_COPIED" value="a9dc76" />
-    <option name="FILESTATUS_DELETED" value="727072" />
-    <option name="FILESTATUS_HIJACKED" value="ffd866" />
+    <option name="FILESTATUS_DELETED" value="f77669" />
+    <option name="FILESTATUS_HIJACKED" value="ffcb6b" />
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="727072" />
     <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="ab7967" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="fc9867" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="fc9867" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="fc9867" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="a9dc76" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
+    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="a9dc76" />
     <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
     <option name="FILESTATUS_MERGED" value="ab9df2" />
-    <option name="FILESTATUS_MODIFIED" value="78dce8" />
-    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="78dce8" />
-    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="78dce8" />
-    <option name="FILESTATUS_SUPPRESSED" value="727072" />
-    <option name="FILESTATUS_SWITCHED" value="ab9df2" />
-    <option name="FILESTATUS_UNKNOWN" value="f59762" />
-    <option name="FILESTATUS_addedOutside" value="a9dc76" />
+    <option name="FILESTATUS_MODIFIED" value="80cbc4" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
+    <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
+    <option name="FILESTATUS_SUPPRESSED" value="546e7a" />
+    <option name="FILESTATUS_SWITCHED" value="f77669" />
+    <option name="FILESTATUS_UNKNOWN" value="f77669" />
+    <option name="FILESTATUS_addedOutside" value="ffd866" />
     <option name="FILESTATUS_changelistConflict" value="f65f87" />
     <option name="FILESTATUS_modifiedOutside" value="ab9df2" />
     <option name="GUTTER_BACKGROUND" value="1b1a1c" />
@@ -109,6 +113,26 @@
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="727072" />
   </colors>
   <attributes>
+    <option name="!_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="91ff9d" />
+      </value>
+    </option>
+    <option name="*_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="f8cc3a" />
+      </value>
+    </option>
+    <option name="?_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="91ff9d" />
+      </value>
+    </option>
+    <option name="@_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="3995ff" />
+      </value>
+    </option>
     <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ffd866" />
@@ -3603,7 +3627,7 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="e88144" />
+        <option name="FOREGROUND" value="ececec" />
         <option name="BACKGROUND" value="1c1b1d" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
@@ -3665,7 +3689,8 @@
     </option>
     <option name="TYPO">
       <value>
-        <option name="EFFECT_TYPE" value="2" />
+        <option name="EFFECT_COLOR" value="91ff83" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="Unresolved reference access">
