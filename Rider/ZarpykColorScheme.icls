@@ -1,10 +1,8 @@
 <scheme name="ZarpykColorScheme" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2024-03-16T01:03:24</property>
     <property name="ide">Rider</property>
-    <property name="ideVersion">2023.3.3.0.0</property>
-    <property name="modified">2024-03-16T01:03:39</property>
+    <property name="ideVersion">2024.1.0.0</property>
     <property name="originalScheme">ZarpykColorScheme</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -1059,7 +1057,7 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="33e5d" />
+        <option name="BACKGROUND" value="3f3e40" />
         <option name="ERROR_STRIPE_COLOR" value="4d6168" />
       </value>
     </option>
@@ -3492,7 +3490,7 @@
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="403e41" />
+        <option name="BACKGROUND" value="3f3e40" />
       </value>
     </option>
     <option name="SLIM_CLASS">
